@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">Four paths through Wenqi's AI Wildland</title>
+  <desc id="desc">A hand-drawn path connecting classroom intelligence, private creative AI, game systems, and medical AI.</desc>
+  <defs>
+    <filter id="paper" x="-10%" y="-20%" width="120%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency=".55" numOctaves="2" seed="19" result="noise"/>
+      <feColorMatrix in="noise" type="saturate" values="0" result="gray"/>
+      <feComponentTransfer in="gray" result="faded">
+        <feFuncA type="table" tableValues="0 .055"/>
+      </feComponentTransfer>
+      <feBlend in="SourceGraphic" in2="faded" mode="multiply"/>
+    </filter>
+    <style>
+      .label{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:17px;font-weight:650;fill:#37412f;letter-spacing:.6px}
+      .sub{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:12px;fill:#68715e;letter-spacing:1.6px}
+      .line{fill:none;stroke:#6f7d49;stroke-width:3;stroke-linecap:round;stroke-dasharray:2 11}
+      .ring{fill:#f4efd8;stroke:#56653a;stroke-width:2.5}
+      .icon{fill:none;stroke:#37412f;stroke-width:2.3;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+  <rect x="4" y="4" width="1192" height="212" rx="22" fill="#f4efd8" stroke="#bac19a" filter="url(#paper)"/>
+  <path class="line" d="M135 101 C255 44 337 162 451 105 S666 47 763 105 S971 160 1068 101"/>
+
+  <g transform="translate(135 101)">
+    <circle class="ring" r="39"/>
+    <path class="icon" d="M-18-10h36v25h-36zM-12-2h24M-12 5h17M-6 15v8M6 15v8"/>
+    <circle cx="28" cy="-28" r="7" fill="#c77a2b"/>
+  </g>
+  <text class="sub" x="135" y="166" text-anchor="middle">01 · EVIDENCE</text>
+  <text class="label" x="135" y="190" text-anchor="middle">CLASSROOM</text>
+
+  <g transform="translate(451 105)">
+    <circle class="ring" r="39"/>
+    <path class="icon" d="M-17-18h34v36h-34zM-8-7c5-6 11-6 16 0M-10 8c6 5 14 5 20 0M-21-7v-14h14M21 7v14H7"/>
+    <circle cx="28" cy="-28" r="7" fill="#c77a2b"/>
+  </g>
+  <text class="sub" x="451" y="166" text-anchor="middle">02 · PRIVACY</text>
+  <text class="label" x="451" y="190" text-anchor="middle">LOCALFACE</text>
+
+  <g transform="translate(763 105)">
+    <circle class="ring" r="39"/>
+    <path class="icon" d="M-22 3c3-14 8-20 15-20h14c7 0 12 6 15 20 2 9-6 14-12 7l-5-6h-10l-5 6c-6 7-14 2-12-7zM-12-5v10M-17 0h10M10-4h.1M16 2h.1"/>
+    <circle cx="28" cy="-28" r="7" fill="#c77a2b"/>
+  </g>
+  <text class="sub" x="763" y="166" text-anchor="middle">03 · KNOWLEDGE</text>
+  <text class="label" x="763" y="190" text-anchor="middle">GAMECRAFTER</text>
+
+  <g transform="translate(1068 101)">
+    <circle class="ring" r="39"/>
+    <path class="icon" d="M0-20v40M-20 0h40M-16-16l32 32M16-16l-32 32"/>
+    <circle cx="0" cy="0" r="7" fill="#c77a2b"/>
+    <circle cx="28" cy="-28" r="7" fill="#c77a2b"/>
+  </g>
+  <text class="sub" x="1068" y="166" text-anchor="middle">04 · COLLABORATION</text>
+  <text class="label" x="1068" y="190" text-anchor="middle">MEDICAL AI</text>
+</svg>
