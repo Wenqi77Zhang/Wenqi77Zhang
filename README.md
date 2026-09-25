@@ -71,7 +71,7 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/open-to-roles-mobile.svg" />
-    <img src="./assets/open-to-roles.svg" alt="Open to AI Agent, Computer Vision and Machine Learning Engineering roles." width="700" />
+    <img src="./assets/open-to-roles.svg" alt="Open to AI Agent, FDE, Computer Vision and Machine Learning Engineering roles" width="700" />
   </picture><br/>
   <a href="mailto:ZH0037QI@e.ntu.edu.sg">Get in touch ↗</a>
 </p>
