@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/technical-profile-mobile.svg" />
-    <img src="./assets/technical-profile.svg" alt="Technical profile. Primary language: Python, with FastAPI, PyTorch, Pydantic and scikit-learn. Agents and LLMs: RAG, workflows, LangChain and Ollama (projects 01, 03, 04). Computer vision: ONNX Runtime, OpenCV and model integration (02). Machine learning: PyTorch, ResNet18, preprocessing, training and evaluation (06). Full-stack delivery: Node.js, Next.js, React, PostgreSQL, Docker, AWS and GitHub Actions." width="840" />
-  </picture>
+  <img src="./assets/ai-wildland-banner-final.png" alt="Wenqi's AI Wildland — a quiet, plant-filled studio overlooking a futuristic city" width="100%" />
 </p>
 
 <p align="center"><samp>APPLIED AI ENGINEERING</samp></p>
@@ -24,14 +21,17 @@
   <a href="https://github.com/Wenqi77Zhang?tab=repositories">Repositories ↗</a>
 </p>
 
-<p align="center">
-  <img src="./assets/ai-wildland-banner-final.png" alt="Wenqi's AI Wildland — a quiet, plant-filled studio overlooking a futuristic city" width="100%" />
-</p>
-
 <br/>
 
 <p align="center">
   <img src="./assets/section-technical.svg" alt="Technical profile" width="300" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/technical-profile-mobile.svg" />
+    <img src="./assets/technical-profile.svg" alt="Technical profile. Primary language: Python, with FastAPI, PyTorch, Pydantic and scikit-learn. Agents and LLMs: RAG, workflows, LangChain and Ollama (projects 01, 03, 04). Computer vision: ONNX Runtime, OpenCV and model integration (02). Machine learning: PyTorch, ResNet18, preprocessing, training and evaluation (06). Full-stack delivery: Node.js, Next.js, React, PostgreSQL, Docker, AWS and GitHub Actions." width="840" />
+  </picture>
 </p>
 
 <br/>
@@ -71,7 +71,7 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/open-to-roles-mobile.svg" />
-    <img src="./assets/open-to-roles.svg" alt="Open to AI Agent, FDE, Computer Vision and Machine Learning Engineering roles." width="700" />
+    <img src="./assets/open-to-roles.svg" alt="Open to AI Agent, Computer Vision and Machine Learning Engineering roles." width="700" />
   </picture><br/>
   <a href="mailto:ZH0037QI@e.ntu.edu.sg">Get in touch ↗</a>
 </p>
