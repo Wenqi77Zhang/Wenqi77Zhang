@@ -1,87 +1,77 @@
-<p align="center">
-  <img src="./assets/ai-wildland-banner-final.png" alt="Wenqi's AI Wildland — an artful, light-futuristic AI studio" width="100%" />
-</p>
-
-<h1 align="center">WENQI ZHANG</h1>
+<p align="center"><samp>APPLIED AI ENGINEERING</samp></p>
 
 <p align="center">
-  <strong>Applied AI Engineer · Agent Builder · Creative Technologist</strong><br/>
-  <sub>Turning research ideas into traceable, human-centered AI products.</sub>
+  <img src="./assets/profile-wordmark.svg" alt="Wenqi Zhang" width="480" />
 </p>
 
 <p align="center">
-  <a href="mailto:ZH0037QI@e.ntu.edu.sg">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Wenqi77Zhang?tab=repositories">Repositories</a>
-  &nbsp;·&nbsp;
-  NTU MComp in Applied Artificial Intelligence
+  <strong>AI Agents · Computer Vision · Machine Learning</strong><br/>
+  <sub>NTU · MComp in Applied Artificial Intelligence</sub>
+</p>
+
+<p align="center">
+  <a href="mailto:ZH0037QI@e.ntu.edu.sg">Email ↗</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/wenqi77zhang/">LinkedIn ↗</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/Wenqi77Zhang?tab=repositories">Repositories ↗</a>
+</p>
+
+<p align="center">
+  <img src="./assets/ai-wildland-banner-final.png" alt="Wenqi's AI Wildland — a quiet, plant-filled studio overlooking a futuristic city" width="100%" />
 </p>
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <sub>01 · FOCUS</sub><br/>
-      <strong>AI Agents &amp; LLM Applications</strong>
-    </td>
-    <td align="center" width="34%">
-      <sub>02 · BUILD</sub><br/>
-      <strong>Multimodal AI Products</strong>
-    </td>
-    <td align="center" width="33%">
-      <sub>03 · PRINCIPLE</sub><br/>
-      <strong>Evidence · Privacy · Human Review</strong>
-    </td>
-  </tr>
-</table>
-
-## Selected Work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>01 / CLASSROOM INTELLIGENCE</sub>
-      <h3><a href="https://github.com/Wenqi77Zhang/classroom-review-analysis-agent">Classroom Review Analysis Agent ↗</a></h3>
-      <p>Transforms classroom video, slides, and transcripts into timestamped teaching evidence and teacher-reviewed reports.</p>
-      <p><code>Next.js</code> <code>Python</code> <code>Multimodal AI</code> <code>Agents</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <sub>02 / PRIVATE CREATIVE AI</sub>
-      <h3><a href="https://github.com/Wenqi77Zhang/localface-studio">LocalFace Studio ↗</a></h3>
-      <p>A privacy-first local workspace for precise face editing, replaceable inference backends, and transparent AI-edit metadata.</p>
-      <p><code>Python</code> <code>ONNX</code> <code>Computer Vision</code> <code>Web UI</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>03 / GAMES &amp; CREATIVE SYSTEMS</sub>
-      <h3><a href="https://github.com/Wenqi77Zhang/GameCrafter-Agent">GameCrafter ↗</a></h3>
-      <p>An evidence-aware game knowledge and marketing workspace with traceable sources, human review, and controlled Agent workflows.</p>
-      <p><code>FastAPI</code> <code>React</code> <code>PostgreSQL</code> <code>pgvector</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <sub>04 / MEDICAL AI</sub>
-      <h3><a href="https://github.com/pappylon/Multi-MedAgent">Multi-MedAgent ↗</a></h3>
-      <p>A collaborative medical-AI system combining medical RAG, local-model integration, and interactive model-assisted consultation.</p>
-      <p><code>LangChain</code> <code>RAG</code> <code>Transformers</code> <code>Streamlit</code></p>
-    </td>
-  </tr>
-</table>
-
-## Core Stack
-
 <p align="center">
-  <code>Python</code> ── <code>PyTorch</code> ── <code>LangChain</code> ── <code>FastAPI</code> ── <code>React / Next.js</code> ── <code>PostgreSQL / pgvector</code>
+  <img src="./assets/section-technical.svg" alt="Technical profile" width="300" />
 </p>
 
 <p align="center">
-  <sub>LLM AGENTS · RAG · MULTIMODAL AI · COMPUTER VISION · PRODUCT ENGINEERING</sub>
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/technical-profile-mobile.svg" />
+    <img src="./assets/technical-profile.svg" alt="Technical profile. Primary language: Python, with FastAPI, PyTorch, Pydantic and scikit-learn. Agents and LLMs: RAG, workflows, LangChain and Ollama (projects 01, 03, 04). Computer vision: ONNX Runtime, OpenCV and model integration (02). Machine learning: PyTorch, ResNet18, preprocessing, training and evaluation (06). Full-stack delivery: Node.js, Next.js, React, PostgreSQL, Docker, AWS and GitHub Actions." width="840" />
+  </picture>
 </p>
 
----
+<br/>
 
 <p align="center">
-  <em>Ideas grow wild. Systems stay grounded.</em><br/>
-  <sub>Open to Applied AI, AI Agent, and Machine Learning Engineering opportunities.</sub>
+  <img src="./assets/section-selected.svg" alt="Selected work" width="260" />
+</p>
+
+<br/>
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/selected-work-grid-mobile.svg" />
+    <img src="./assets/selected-work-grid.svg" alt="Six selected projects shown as a two-column editorial index on desktop and a single-column index on mobile. 01 Classroom Review Analysis Agent — team lead. 02 LocalFace Studio — personal project. 03 GameCrafter — personal project. 04 Multi-MedAgent — contributor. 05 CINE NEST — private personal project. 06 Chest X-ray Classification — contributor." width="840" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>
+    <strong>01</strong> <a href="https://github.com/Wenqi77Zhang/classroom-review-analysis-agent">Repository ↗</a> · <a href="https://github.com/Wenqi77Zhang/classroom-review-analysis-agent/blob/main/reports/group-report.md">Contribution audit ↗</a> · <a href="https://github.com/Wenqi77Zhang/classroom-review-analysis-agent/blob/main/docs/aws-deployment.md">AWS deployment ↗</a><br/>
+    <strong>02</strong> <a href="https://github.com/Wenqi77Zhang/localface-studio">Repository ↗</a> · <a href="https://github.com/Wenqi77Zhang/localface-studio/blob/main/docs/benchmarking/MODEL_MATRIX_2026_09.md">Model evaluation ↗</a>
+    &nbsp; / &nbsp;
+    <strong>03</strong> <a href="https://github.com/Wenqi77Zhang/GameCrafter-Agent">Repository ↗</a> · <a href="https://github.com/Wenqi77Zhang/GameCrafter-Agent/pull/23">Creative workflow ↗</a><br/>
+    <strong>04</strong> <a href="https://github.com/pappylon/Multi-MedAgent">Repository ↗</a> · <a href="https://github.com/pappylon/Multi-MedAgent/commit/d959ff8cc0964d6774cdf63c4c84f3665f39c2a9">RAG contribution ↗</a>
+    &nbsp; / &nbsp;
+    <strong>05</strong> Private repository
+    &nbsp; / &nbsp;
+    <strong>06</strong> <a href="https://github.com/Kerr-wang0213/medAgent_chest_xray">Repository ↗</a> · <a href="https://github.com/Kerr-wang0213/medAgent_chest_xray/commit/94f40cc9f7538cdf7799709e35ba70f5ba140021">Training contribution ↗</a>
+  </sub>
+</p>
+<br/>
+
+<p align="center">
+  <img src="./assets/botanical-divider.svg" alt="" width="640" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/open-to-roles-mobile.svg" />
+    <img src="./assets/open-to-roles.svg" alt="Open to AI Agent, Computer Vision and Machine Learning Engineering roles." width="700" />
+  </picture><br/>
+  <a href="mailto:ZH0037QI@e.ntu.edu.sg">Get in touch ↗</a>
 </p>
