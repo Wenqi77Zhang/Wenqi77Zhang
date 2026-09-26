@@ -13,13 +13,13 @@
   .rule { fill: none; stroke: #465F1F; stroke-width: 1; }
   @media (prefers-color-scheme: dark) {
     .ink { fill: #ffffff; }
-    .muted { fill: #8FB83E; }
-    .accent { fill: #8FB83E; }
-    .brand-gold { fill: #8FB83E; }
-    .icon { stroke: #8FB83E; }
+    .muted { fill: #6B912A; }
+    .accent { fill: #6B912A; }
+    .brand-gold { fill: #6B912A; }
+    .icon { stroke: #6B912A; }
     .tech-ink { fill: #ffffff; }
-    .tech-muted { fill: #8FB83E; }
-    .rule { stroke: #8FB83E; }
+    .tech-muted { fill: #6B912A; }
+    .rule { stroke: #6B912A; }
   }
 </style>
 <path class="icon" d="M311 19c6-8 11-14 20-17M319 11c-1-7-5-9-8-9 0 7 4 10 8 9M322 8c5 2 10 0 12-4-7-2-11 0-12 4"/>
