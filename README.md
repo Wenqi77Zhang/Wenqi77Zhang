@@ -30,7 +30,7 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/technical-profile-mobile.svg" />
-    <img src="./assets/technical-profile.svg" alt="Technical profile. Primary language: Python, with FastAPI, PyTorch, Pydantic and scikit-learn. Agents and LLMs: RAG, workflows, LangChain and Ollama (projects 01, 03, 04). Computer vision: ONNX Runtime, OpenCV and model integration (02). Machine learning: PyTorch, ResNet18, preprocessing, training and evaluation (06). Full-stack delivery: Node.js, Next.js, React, PostgreSQL, Docker, AWS and GitHub Actions." width="840" />
+    <img src="./assets/technical-profile.svg" alt="Technical profile. Primary language: Python, with FastAPI, PyTorch, Pydantic and scikit-learn. Agents and LLMs: RAG, workflows, LangChain and Ollama (projects 01, 03, 04). Computer vision: ONNX Runtime, OpenCV and model integration (02). Machine learning: PyTorch, ResNet18, preprocessing, training and evaluation (06). Full-stack delivery: Node.js, Next.js, React, PostgreSQL, Docker, AWS and GitHub Actions." width="576" />
   </picture>
 </p>
 
@@ -45,7 +45,7 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/selected-work-grid-mobile.svg" />
-    <img src="./assets/selected-work-grid.svg" alt="Six selected projects shown as a two-column editorial index on desktop and a single-column index on mobile. 01 Classroom Review Analysis Agent — team lead. 02 LocalFace Studio — personal project. 03 GameCrafter — personal project. 04 Multi-MedAgent — contributor. 05 CINE NEST — private personal project. 06 Chest X-ray Classification — contributor." width="840" />
+    <img src="./assets/selected-work-grid.svg" alt="Six selected projects shown as a two-column editorial index on desktop and a single-column index on mobile. 01 Classroom Review Analysis Agent — team lead. 02 LocalFace Studio — personal project. 03 GameCrafter — personal project. 04 Multi-MedAgent — contributor. 05 CINE NEST — private personal project. 06 Chest X-ray Classification — contributor." width="576" />
   </picture>
 </p>
 
