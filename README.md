@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ai-wildland-banner-final.png" alt="Wenqi's AI Wildland — a quiet, plant-filled studio overlooking a futuristic city" width="100%" />
+  <img src="./assets/ai-studio-banner-20260927.png" alt="Wenqi's AI studio — a warm, plant-filled workspace overlooking a futuristic city" width="100%" />
 </p>
 
 <p align="center"><samp>APPLIED AI ENGINEERING</samp></p>

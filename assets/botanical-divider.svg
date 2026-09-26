@@ -4,22 +4,22 @@
 <!-- Outlined type: Cormorant Garamond and Manrope, SIL OFL 1.1. License texts are in assets/licenses/. -->
 <style>
   .ink { fill: #000000; }
-  .muted { fill: #9A6B2F; }
-  .accent { fill: #9A6B2F; }
-  .brand-gold { fill: #9A6B2F; }
-  .icon { fill: none; stroke: #9A6B2F; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+  .muted { fill: #7D6854; }
+  .accent { fill: #7D6854; }
+  .brand-gold { fill: #7D6854; }
+  .icon { fill: none; stroke: #7D6854; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
   .tech-ink { fill: #000000; }
-  .tech-muted { fill: #9A6B2F; }
-  .rule { fill: none; stroke: #9A6B2F; stroke-width: 1; }
+  .tech-muted { fill: #7D6854; }
+  .rule { fill: none; stroke: #7D6854; stroke-width: 1; }
   @media (prefers-color-scheme: dark) {
     .ink { fill: #ffffff; }
-    .muted { fill: #E0B86A; }
-    .accent { fill: #E0B86A; }
-    .brand-gold { fill: #E0B86A; }
-    .icon { stroke: #E0B86A; }
+    .muted { fill: #C7A78B; }
+    .accent { fill: #C7A78B; }
+    .brand-gold { fill: #C7A78B; }
+    .icon { stroke: #C7A78B; }
     .tech-ink { fill: #ffffff; }
-    .tech-muted { fill: #E0B86A; }
-    .rule { stroke: #E0B86A; }
+    .tech-muted { fill: #C7A78B; }
+    .rule { stroke: #C7A78B; }
   }
 </style>
 <path class="icon" d="M311 19c6-8 11-14 20-17M319 11c-1-7-5-9-8-9 0 7 4 10 8 9M322 8c5 2 10 0 12-4-7-2-11 0-12 4"/>
