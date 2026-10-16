@@ -31,7 +31,7 @@
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/technical-profile-mobile.svg" />
     <source media="(min-width: 1100px)" srcset="./assets/technical-profile-wide.svg" />
-    <img src="./assets/technical-profile.svg" alt="Technical profile. Primary language: Python, with FastAPI, PyTorch, Pydantic and scikit-learn. Agents and LLMs: RAG, workflows, LangChain and Ollama (projects 01, 03, 04). Computer vision: ONNX Runtime, OpenCV and model integration (02). Machine learning: PyTorch, ResNet18, preprocessing, training and evaluation (06). Full-stack delivery: Node.js, Next.js, React, PostgreSQL, Docker, AWS and GitHub Actions." />
+    <img src="./assets/technical-profile.svg" alt="Technical profile. Primary language: Python, with FastAPI, PyTorch, Pydantic and scikit-learn. Agents and LLMs: RAG, workflows, LangChain and Ollama (projects 01, 03, 04, 05 and 07). Computer vision: ONNX Runtime, OpenCV and model integration (02). Machine learning: PyTorch, ResNet18, preprocessing, training and evaluation (06). Full-stack delivery: Node.js, Next.js, React, PostgreSQL, Docker, AWS and GitHub Actions." />
   </picture>
 </p>
 
@@ -47,7 +47,7 @@
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/selected-work-grid-mobile.svg" />
     <source media="(min-width: 1100px)" srcset="./assets/selected-work-grid-wide.svg" />
-    <img src="./assets/selected-work-grid.svg" alt="Six selected projects shown as a two-column editorial index on desktop and a single-column index on mobile. 01 Classroom Review Analysis Agent — team lead. 02 LocalFace Studio — personal project. 03 GameCrafter — personal project. 04 Multi-MedAgent — contributor. 05 CINE NEST — private personal project. 06 Chest X-ray Classification — contributor." />
+    <img src="./assets/selected-work-grid.svg" alt="Eight selected projects shown as a two-column editorial index on desktop and a single-column index on mobile. 01 Classroom Review Analysis Agent — team lead. 02 LocalFace Studio — personal project. 03 GameCrafter — personal project. 04 RydeResolve — team member. 05 Multi-MedAgent — contributor. 06 Chest X-ray Classification — contributor. 07 AssignmentPilot — contributor. 08 CINE NEST — private personal project." />
   </picture>
 </p>
 
@@ -57,11 +57,14 @@
     <strong>02</strong> <a href="https://github.com/Wenqi77Zhang/localface-studio">Repository ↗</a> · <a href="https://github.com/Wenqi77Zhang/localface-studio/blob/main/docs/benchmarking/MODEL_MATRIX_2026_09.md">Model evaluation ↗</a>
     &nbsp; / &nbsp;
     <strong>03</strong> <a href="https://github.com/Wenqi77Zhang/GameCrafter-Agent">Repository ↗</a> · <a href="https://github.com/Wenqi77Zhang/GameCrafter-Agent/pull/23">Creative workflow ↗</a><br/>
-    <strong>04</strong> <a href="https://github.com/pappylon/Multi-MedAgent">Repository ↗</a> · <a href="https://github.com/pappylon/Multi-MedAgent/commit/d959ff8cc0964d6774cdf63c4c84f3665f39c2a9">RAG contribution ↗</a>
-    &nbsp; / &nbsp;
-    <strong>05</strong> Private repository
+    <strong>04</strong> <a href="https://github.com/Maple-0102/ryderesolve">Team project ↗</a> · <a href="https://github.com/Wenqi77Zhang/ryderesolve-evidence-earlier-work">Earlier Evidence/Data work ↗</a><br/>
+    <strong>05</strong> <a href="https://github.com/pappylon/Multi-MedAgent">Repository ↗</a> · <a href="https://github.com/pappylon/Multi-MedAgent/commit/d959ff8cc0964d6774cdf63c4c84f3665f39c2a9">RAG contribution ↗</a>
     &nbsp; / &nbsp;
     <strong>06</strong> <a href="https://github.com/Kerr-wang0213/medAgent_chest_xray">Repository ↗</a> · <a href="https://github.com/Kerr-wang0213/medAgent_chest_xray/commit/94f40cc9f7538cdf7799709e35ba70f5ba140021">Training contribution ↗</a>
+    <br/>
+    <strong>07</strong> <a href="https://github.com/zjh20001007/assignment_pilot">Main project ↗</a> · <a href="https://github.com/Wenqi77Zhang/AI-Agent-for-Coursework-Planning-and-Learning-Supervision">Personal work ↗</a>
+    &nbsp; / &nbsp;
+    <strong>08</strong> Private repository
   </sub>
 </p>
 <br/>
